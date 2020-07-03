@@ -53,9 +53,9 @@
           <li class="menu-active"><a href="#intro">Home</a></li>
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
-          <li><a href="volunteer.html">Volunteer</a></li>
-          <li><a href="enroll.html">Enrol Institution</a></li>
-          <li><a href="donate.html">Donate</a></li>
+          <li><a href="volunteer.php">Volunteer</a></li>
+          <li><a href="enroll.php">Enrol Institution</a></li>
+          <li><a href="donate.php">Donate</a></li>
           <!--<li><a href="#portfolio">Portfolio</a></li>-->
           
           <li><a href="#contact">Contact</a></li>
@@ -157,19 +157,19 @@
 
           <div class="col-lg-4 box">
             <i class="ion-ios-bookmarks-outline"></i>
-            <h4 class="title"><a href="donate.html">Donate</a></h4>
+            <h4 class="title"><a href="donate.php">Donate</a></h4>
             <p class="description">Donate for a better cause... Grow along with the society</p>
           </div>
 
           <div class="col-lg-4 box box-bg">
             <i class="ion-ios-stopwatch-outline"></i>
-            <h4 class="title"><a href="volunteer.html">Volunteer</a></h4>
+            <h4 class="title"><a href="volunteer.php">Volunteer</a></h4>
             <p class="description">Help us in our vision to create a better world.... Join us today itself</p>
           </div>
 
           <div class="col-lg-4 box">
             <i class="ion-ios-heart-outline"></i>
-            <h4 class="title"><a href="enroll.html">Enroll your Organisation</a></h4>
+            <h4 class="title"><a href="enroll.php">Enroll your Organisation</a></h4>
             <p class="description">Enroll your institution and avail all the support from our community</p>
           </div>
 
@@ -292,7 +292,7 @@
       <div class="container text-center">
         <h3>Donate now</h3>
         <p>Sometimes even the tiniest of your donations can bring smile to many faces. Donate and become a part of this noble cause </p>
-        <a class="cta-btn" href="donate.html">Donate now</a>
+        <a class="cta-btn" href="donate.php">Donate now</a>
       </div>
     </section><!-- #call-to-action -->
 
@@ -815,7 +815,7 @@
             <ul>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">Home</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">About us</a></li>
-              <li><i class="ion-ios-arrow-right"></i> <a href="#">Services</a></li>
+              <li><i class="ion-ios-arrow-right"></i> <a href="#services">Services</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="ion-ios-arrow-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
